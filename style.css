@@ -1,0 +1,10 @@
+div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    color: rgb(158, 79, 79);
+    text-align: center;
+}
+div h2 {
+    font-size: 65px;
+    color: rgb(12, 148, 7);
+}
